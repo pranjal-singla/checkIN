@@ -11,7 +11,7 @@ The UI/UX is really simple and self explanatory, the user will not face any issu
 
 
 ## ✨ Features
-- **Login** -
+- **Login** - Allows users to Log In
 - **View checkIn time** - Shows the checkIn time on that particular day
 - **CheckIn/checkOut** - Slide to checkIn/checkOut
 - **Capute Images** - Capture Images
