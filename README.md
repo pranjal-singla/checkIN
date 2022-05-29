@@ -5,7 +5,6 @@ The UI/UX is really simple and self explanatory, the user will not face any issu
 
 ## 📕 Resources
 - Video demo link - [YouTube](https://www.youtube.com/watch?v=toJiBPxem5I&ab_channel=LitCoder)
-- Supporting Documents - [Documents](https://drive.google.com/drive/folders/1jf2ofhPqel-6Fn9p6Fe_sjGvDqyWAWK0?usp=sharing)
 
 ## 💻 Tech Stack used 
 - **Flutter** - Developed using Android studio and Java as developing Language
