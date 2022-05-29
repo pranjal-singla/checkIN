@@ -1,16 +1,22 @@
-# my_attendance_app
+# checkIN - Face-Recognition_Engage-2022
+This is an Android Application developed for Microsoft Intern Engage 2022 Programme.<br />
+The UI/UX is really simple and self explanatory, the user will not face any issues.<br />
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 💻 Tech Stack used 
+- **Flutter** - Developed using Android studio and dart as developing Language and Flutter as the framework
+- **Firebase** - To authenticate users, store user's data and perform operations and store files (PDFs)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+- **Login** - 
+- **View checkIn time** - Shows the checkIn time on that particular day
+- **CheckIn/checkOut** - Slide to checkIn/checkOut
+- **Capute Images** - Capture Images
+
+
+## ❓ How to use the app?
+- Clone the repository
+- Use the folloing credentials: (Employee ID : "Pranjal", Password : "Nokia@123")
